@@ -1,5 +1,5 @@
 # Linux
-Linux summary
+##Linux summary
 
 **1. Learning the shell**
   - Navigation (file system tree, current working directory, absolute pathname, relative pathname)
