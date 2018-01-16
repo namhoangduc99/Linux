@@ -1,7 +1,7 @@
 # Linux
 ## Linux summary
 
-**1. Learning the shell**
+### 1. Learning the shell
   - Navigation (file system tree, current working directory, absolute pathname, relative pathname)
   - Exploring the file system
     + ls
@@ -41,20 +41,20 @@
     + Controlling process: interrupting, background, foreground, stop (Pausing) a process
     + Signals: kill, killall
     
-**2. Configuration and The Environment**
+### 2. Configuration and The Environment
   - The environment
     + What is stored in the environment
     + How is the environment established
     + Modifying the environment
   - Vim - most common linux text editor
   
-**3. Common tasks and essential tools**
+### 3. Common tasks and essential tools
   - Package management: apt-get, dpkg, yum
   - Networking: ping, traceroute, netstat, ftp, lftp, wget, ssh, scp, sftp
   - Searching for file: locate, find
   - Compiling program: ./configure, make, make install
   
-**4. Writing shell scripts**
+### 4. Writing shell scripts
   - Top-down design: shell functions
   - Braching with If
   - Reading keyboard Input
